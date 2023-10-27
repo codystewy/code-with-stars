@@ -4,7 +4,7 @@ Welcome to Wrestling with the Code, where programming meets the world of wrestli
 
 ## About
 
-This repository offers a unique and entertaining way to learn programming fundamentals, with a focus on understanding the basics of machine learning models. We've asked our friends at Open AI to lend us a hand injecting some light humor into our lessons. Hope you enjoy! 
+This repository offers a unique and entertaining way to learn programming fundamentals, with a focus on understanding the basics of machine learning models. We've ran our material through the GPT ringer to make each lesson seem like you are right in the middle of WrestleMania. 
 
 ## What's Inside?
 
